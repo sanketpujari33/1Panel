@@ -11,7 +11,6 @@ build/1panel-core
 .DS_Store
 
 # VS Code
-.vscode
 *.project
 *.factorypath
 __debug*
@@ -79,3 +78,5 @@ opencode.json
 superpowers
 .worktrees/
 .codex/
+config.bat
+node_modules
